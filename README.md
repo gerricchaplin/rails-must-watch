@@ -1,6 +1,7 @@
 rails-must-watch
 ================
 This is a list of must-watch videos devoted to Rails, peferably in order of difficulty from beginner to advanced.
+Submit pull requests or open issues if you would like to include something.
 
 # Beginner Topics:
 
