@@ -8,7 +8,8 @@ Submit pull requests or open issues if you would like to include something.
 # Advanced Topics:
 
 # Playlists:
-* [Ruby On Rails Video Tutorials - Learn Rails By Examples](https://www.youtube.com/playlist?list=PLVBFw0Pn9e9L7SOKtL8x4Av39drO5Oi-Q) - Michael Hartl [19:00:00] 
+* [Ruby On Rails Video Tutorials - Learn Rails By Examples](https://www.youtube.com/playlist?list=PLVBFw0Pn9e9L7SOKtL8x4Av39drO5Oi-Q) - [Michael Hartl](https://github.com/mhartl) [19:00:00]
+* [12 Web Apps in 12 Weeks] (https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-) - [Mackenzie Child](https://github.com/mackenziechild) [14:00:00]
 
 # Training
 
